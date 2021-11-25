@@ -15,8 +15,8 @@ NotepadJE: This program is made for writing text files. Inspired by Microsoft's 
 
 PONG: The first videogame I have published, I made a game before this one, but was never released. The concept is simple. You compete with the computer to try and not get the ball to get to your side. Based on Alan Alcorn's Pong, its a perfect combination between modernity, and nostalgia. Still being updated from time to time.
 
-JRecognition: This program just started development, it's still on private use only for developers. This program allows you to train your computer to identify faces and objects with ease. With OpenCV's technology, it powers a wide range of possibilities in software security. This is currently being made for a school project. LMAO
+JRecognition: This program is one of 3 I am making, designed to recognize facial expressions, it's a great tool to understand the basics of how face recognition actually works. Made for a school project.
 
-TrexJS: This is a game that will be soon published. As the title indicates, its the famous Google's Trex game, made in JavaScript.
+TrexJS: This is the game we all know and love, the google Trex game, it doesn't have the complete features, but I will finish it whenever I feel like it. Built to replicate the original, it is a good way to spend some time while being bored.
 
 -Robatortas
