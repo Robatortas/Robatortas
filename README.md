@@ -2,8 +2,10 @@ Hello!
 
 My name is Robatortas and I am an independent programmer.
 
+I work at Prolusio Interactive with my partner Skygallop.
+
 I use Java as my main language.
-JavaScript is my secondary language.
+JavaScript is my secondary language of choice.
 
 The projects I've done:
 
