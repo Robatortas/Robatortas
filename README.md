@@ -20,7 +20,7 @@ If a conversation doesn't have computers in it, I hate it.
 My best interest is computer graphics, so I mostly develop games from the ground up.
 Making engines is such a great thing!
 
-###Please 👉👈
+### Please 👉👈
 Please browse some of my projects, I hope one of them can spark an interest in you.
 
 -Robatortas
