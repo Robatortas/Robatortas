@@ -4,12 +4,12 @@ My name is Robatortas and I am an independent programmer.
 
 I work at Prolusio Interactive with my partner Skygallop.
 
-###Knowledge
+### Knowledge
 Java is my main language.
 
 I can also work with JavaScript, HTML, CSS.
 
-###Biography
+### Biography
 I mostly make computer games in my spare time as a way to enjoy my time.
 And also computer applications
 I am also a workaholic!
