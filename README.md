@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Robatortas and I am an independent programmer.
+My name is Robatortas.
 
 I work at Prolusio Interactive with my partner Skygallop.
 
