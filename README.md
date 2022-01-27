@@ -11,8 +11,9 @@ I can also work with JavaScript, HTML, CSS.
 
 ### Biography
 I mostly make computer games in my spare time as a way to enjoy my time.
-And also computer applications
-I am also a workaholic!
+And also computer applications.
+
+I am also a workaholic! (idk if that's something to be proud of tho..)
 
 I love talking about computers.
 If a conversation doesn't have computers in it, I hate it.
