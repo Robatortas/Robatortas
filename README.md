@@ -9,6 +9,8 @@ Java is my main language.
 
 I can also work with JavaScript, HTML, CSS.
 
+https://github-readme-stats.vercel.app/api?username=Robatortas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 ### Biography
 I mostly make computer games in my spare time as a way to enjoy my time.
 And also computer applications.
