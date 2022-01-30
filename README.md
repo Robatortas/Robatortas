@@ -1,7 +1,6 @@
 ### Hello!
 
-My name is Robatortas.
-
+Howdy.
 I work at Prolusio Interactive with my partner Skygallop.
 
 ### Knowledge
