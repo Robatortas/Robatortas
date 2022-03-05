@@ -16,7 +16,7 @@ Sometimes a js user.
 <img src="https://github-readme-stats.vercel.app/api?username=Robatortas&&show_icons=true&title_color=ffffff&icon_color=DABB47&text_color=daf7dc&bg_color=151515">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robatortas">-->
 
-### Please 👉👈
+### Please
 Please browse some of my projects, I hope one of them can spark an interest in you.
 
 -Robatortas
