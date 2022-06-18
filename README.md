@@ -6,6 +6,8 @@ I work at Prolusio Interactive with my partner Skygallop.
 ### Knowledge
 Java is my main language.
 
+I make 3D stuff.
+
 I can also work with JavaScript, HTML, CSS.
 
 ### What the hell do I do?
