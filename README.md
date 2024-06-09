@@ -20,5 +20,3 @@ I make games most of the time, most of them are built with my own engine that I 
 I sometimes make some really dumbass tools, others are not that dumb, I just make stuff that seems like fun or necessary for me to do something.
 
 If you find something fun, use it as you please, I couldn't care less!
-
-$$\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://pbs.twimg.com/media/FtMfoPEWcAEZO1-?format=jpg&name=large');]{x0000}$}$$
