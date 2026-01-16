@@ -1,6 +1,6 @@
 ### HI
 
-<img src="https://github-readme-stats.vercel.app/api?username=Robatortas&&show_icons=true&title_color=ffffff&icon_color=DABB47&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Robatortas&&show_icons=true&title_color=ffffff&icon_color=DABB47&text_color=daf7dc&bg_color=151515">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robatortas">-->
 
 ## EXPERIENCE
@@ -9,7 +9,7 @@ CSS, HTML of course are other languages I use.
 
 And soon I'll add more to this list.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robatortas)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Robatortas&layout=compact&theme=vision-friendly-dark)
 
 (List is not very accurate...)
 
