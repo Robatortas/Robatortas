@@ -9,7 +9,7 @@ CSS, HTML of course are other languages I use.
 
 And soon I'll add more to this list.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robatortas&&show_icons=true&title_color=ffffff&icon_color=DABB47&text_color=daf7dc&bg_color=151515&&exclude_repo=TrexJS,FaceRecognition,JSRecognition">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robatortas)](https://github.com/anuraghazra/github-readme-stats)
 
 (List is not very accurate...)
 
